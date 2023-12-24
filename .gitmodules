@@ -1,0 +1,4 @@
+[submodule "sub_test"]
+	path = sub_test
+	url = https://github.com/kirin123kirin/sub_test.git
+	branch = main
